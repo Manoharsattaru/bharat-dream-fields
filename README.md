@@ -1,6 +1,7 @@
 # Bharat Dream Fields — Premium Website
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-4CAF6A?style=for-the-badge&logo=github)](https://manoharsattaru.github.io/bharat-dream-fields/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-C9A84C?style=for-the-badge&logo=github)](https://github.com/Manoharsattaru/bharat-dream-fields)
 
 A complete premium website redesign for **Bharat Dream Fields Private Limited** — an agriculture consultancy, training, and export company based in Srikakulam, Andhra Pradesh, India.
 
